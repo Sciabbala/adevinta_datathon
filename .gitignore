@@ -30,3 +30,11 @@
 
 # End of https://www.gitignore.io/api/linux,jupyternotebooks
 
+
+*.pdf
+
+*.docx
+
+*.csv
+
+doc/DatathonPresentation.pptx
